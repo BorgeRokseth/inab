@@ -4,6 +4,8 @@
 .*
 *.py.bak
 
+inab\.env
+
 
 /site/
 /htmlcov/
